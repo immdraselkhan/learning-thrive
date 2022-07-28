@@ -1,11 +1,12 @@
 :root {
+    --bs-primary-rgb: 0,113,188;
     --bs-link-color: #0071bc;
     --bs-link-hover-color: #005e9c;
-    --bs-warning-rgb: red;
+    /* --bs-warning-rgb: 255,169,0; */
 }
 
-.bg-lt-main {
-    background-color: rgb(0, 113, 188);
+.fw-500 {
+    font-weight: 500;
 }
 
 /* :root {
